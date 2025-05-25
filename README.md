@@ -31,7 +31,7 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/www.linkedin.com/in/blessed-ufuoma-70267b352)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/www.linkedin.com/in/https://www.linkedin.com/in/blessed-ufuoma-70267b352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
