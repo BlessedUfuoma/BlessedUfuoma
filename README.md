@@ -30,7 +30,7 @@
 - [Elevate Mental Health App Wireframe](https://github.com/BlessedUfuoma/Elevate-Mental-Health-Wireframe-UX-Research-Slide-Deck) <br/>
 
 ## Connect with me 
-<a href="https://www.linkedin.com/in/blessed-ufuoma"> 
+<a href="www.linkedin.com/in/blessed-ufuoma-70267b352"> 
 |linkedin| <a/>
   
 
