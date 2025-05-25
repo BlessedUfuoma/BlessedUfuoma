@@ -13,7 +13,7 @@
 )
 
  ## Elevate Mental Health Wireframe & UX Research Slide Deck
-- <a href="https://github.com/BlessedUfuoma/Elevate-Mental-Health-App-Wireframe-UX-Research-Slide-Deck/tree/main">Elevate Mental App Wirframe & Ux Research</a>
+- <a href="https://github.com/BlessedUfuoma/Elevate-Mental-Health-Wireframe-UX-Research-Slide-Deck">Elevate Mental App Wirframe & Ux Research</a>
 
 ## Skills and Tools
 - Languages and Technologies: HTML, CSS, WordPress.
@@ -27,11 +27,11 @@
 
 ## Projects
 - [Elevate Mental Health App Presentation](https://github.com/BlessedUfuoma/Elevate-Mental-Health-App-Presentation/tree/main)
-- [Elevate Mental Health App Wireframe](https://github.com/pocre8/BlessedUfuoma/blob/main/Elevate%20Mental%20Health%20App%20Wireframe.pdf) <br/>
+- [Elevate Mental Health App Wireframe](https://github.com/BlessedUfuoma/Elevate-Mental-Health-Wireframe-UX-Research-Slide-Deck) <br/>
 
 ## Connect with me 
 <a href="https://www.linkedin.com/in/blessed-ufuoma"> 
-[linkedin]: <a/>
+|linkedin| <a/>
   
 
 <!--
