@@ -29,7 +29,7 @@
 - [Elevate Mental Health App Presentation](https://github.com/BlessedUfuoma/Elevate-Mental-Health-App-Presentation/tree/main)
 - [Elevate Mental Health App Wireframe](https://github.com/BlessedUfuoma/Elevate-Mental-Health-Wireframe-UX-Research-Slide-Deck) <br/>
 
-[Linkedin](www.linkedin.com/in/blessed-ufuoma-70267b352)
+
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
