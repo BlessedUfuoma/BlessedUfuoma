@@ -9,7 +9,7 @@
 <h2>Project</h2>
 <h2> Elevate Mental Health Project </h2>
 
-- [Elevate mental health app presentation](https://github.com/BlessedUfuoma/Elevatementalhealthapppresentation
+- [Elevate mental health app presentation](https://github.com/BlessedUfuoma/Elevate-Mental-Health-App-Presentation/tree/main
 )
 
  ## Elevate Mental Health Wireframe & UX Research Slide Deck
@@ -26,7 +26,7 @@
   - Biology Education Diploma: DELSU
 
 ## Projects
-- [Elevate Mental Health App Presentation](https://github.com/pocre8/BlessedUfuoma/blob/main/Elevate%20Mental%20Health%20App%20Presentation.pdf)
+- [Elevate Mental Health App Presentation](https://github.com/BlessedUfuoma/Elevate-Mental-Health-App-Presentation/tree/main)
 - [Elevate Mental Health App Wireframe](https://github.com/pocre8/BlessedUfuoma/blob/main/Elevate%20Mental%20Health%20App%20Wireframe.pdf) <br/>
 
 ## Connect with me 
